@@ -1,6 +1,10 @@
 ### Hi there 👋 My name is Ivanna Pashaly, I'm Software QA Automation Engineer from Chicago, US  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"> 
 
-
+<div align="center">
+  <img src="(https://images.unsplash.com/photo-1531297484001-80…fHx8fGVufDB8fHx8&auto=format&fit=crop&w=1420&q=80)" width="900" height="300"/>
+</div>
+[
+](https://images.unsplash.com/photo-1531297484001-80…fHx8fGVufDB8fHx8&auto=format&fit=crop&w=1420&q=80)
 - First do it, then do it right, then do it better. (Addy Osmani)
 - Everything is easy, when you know how to do this.
 
