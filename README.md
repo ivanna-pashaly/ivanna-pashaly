@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1420&q=80" width="900" height="300"/>
 </div>
-[
+
 - First do it, then do it right, then do it better. (Addy Osmani)
 - Everything is easy, when you know how to do this.
 
