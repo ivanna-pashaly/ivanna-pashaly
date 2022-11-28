@@ -6,15 +6,12 @@
 </div>
 
 #### My favorite (QA and programming related) quotes:
-> - Everything is easy, when you know how to do this.  
-> - First do it, then do it right, then do it better. 
+> - "Everything is easy, when you know how to do this" 
+> - "First do it, then do it right, then do it better" (Addy Osmani)
+> - “There are two ways to write error-free programs; only the third one works” (Alan J. Perlis)
 
 
 - :mailbox:How to find me:<div id="badges">
-
-
-
-
 
  <a href="https://www.linkedin.com/in/ivanna-pashaly/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -48,6 +45,17 @@
   Git<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
   Allure<img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://d2h1nbmw1jjnl.cloudfront.net/company_directory_entries/company_logos/000/000/328/original/bstack_2x.png?1582638320" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
+  
+ <img src="https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2956&q=80" width="900" height="400"/>
+</div> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
     
 ---<!--
 **ivanna-pashaly/ivanna-pashaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
