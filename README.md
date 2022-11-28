@@ -14,13 +14,12 @@
  Feel free to learn more & connect with me:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-ivanna-pashaly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivanna-pashaly/)](https://www.linkedin.com/in/bogdan-karpov/)
-[![Gmail Badge](https://img.shields.io/badge/-ivannapashaly5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivannapashaly5@gmail.com)](mailto:bkarpov86@gmail.com)
 
- 
-  <a href="https://www.linkedin.com/in/ivanna-pashaly/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
+ <a href="https://www.linkedin.com/in/ivanna-pashaly/">
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+ [![Gmail Badge](https://img.shields.io/badge/-ivannapashaly5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivannapashaly5@gmail.com)](mailto:bkarpov86@gmail.com)
 
  ---
 
