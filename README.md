@@ -1,4 +1,4 @@
- ### Hi there 👋 My name is Ivanna Pashaly, I'm Software QA Automation Engineer from Chicago, US  
+ ### Hi there 👋  My name is Ivanna Pashaly, I'm Software QA Automation Engineer from Chicago, US  
  
  
 <div align="center">
@@ -46,16 +46,3 @@
   Allure<img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://d2h1nbmw1jjnl.cloudfront.net/company_directory_entries/company_logos/000/000/328/original/bstack_2x.png?1582638320" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
  
-
-<div align="center">
- <img src="https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2956&q=80" width="900" height="400"/>
-</div> 
- 
- 
- 
- 
- 
- 
- 
- 
-
