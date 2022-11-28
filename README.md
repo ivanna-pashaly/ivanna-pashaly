@@ -19,7 +19,6 @@
  <a href="https://www.linkedin.com/in/ivanna-pashaly/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
- [![Gmail Badge](https://img.shields.io/badge/-ivannapashaly5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivannapashaly5@gmail.com)](mailto:bkarpov86@gmail.com)
 
  ---
 
